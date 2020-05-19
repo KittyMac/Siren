@@ -198,6 +198,7 @@
 				TargetAttributes = {
 					46FDCF9421F6D93D0088CD5E = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1140;
 					};
 				};
 			};
@@ -207,6 +208,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 46FDCF8B21F6D93D0088CD5E;
 			productRefGroup = 46FDCF9621F6D93D0088CD5E /* Products */;
@@ -400,7 +402,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.chimerasw.Siren;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -426,7 +428,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.chimerasw.Siren;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
